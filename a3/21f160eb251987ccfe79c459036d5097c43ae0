@@ -1,0 +1,34 @@
+tests/test_plugin.py
+  s_1bfc981d8ca535::t_0d8ec0811b6baa 591
+  s_890ce328305433::t_2d31e9d4f61590 536-590
+ctrf/TestObject.py
+  s_890ce328305433::t_34fce0367dcfb6 21
+  s_890ce328305433::t_94d9f5741ed916 138-139
+  s_890ce328305433::t_034f4c640344e5 52
+  s_890ce328305433::t_4adaae539709c4 153
+  s_890ce328305433::t_ea2752ad2c27d2 78
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a321f160eb251987ccfe79c459036d5097c43ae0",
+  "prompts": {},
+  "sessions": {
+    "s_1bfc981d8ca535": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "6ead0ed9-2eed-4c49-81b6-7df460c25d4e",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "James A Rosen <james.rosen@scribehow.com>"
+    },
+    "s_890ce328305433": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "3d8fef94-39ff-4b31-a413-faf5ece95b8a",
+        "model": "glm-5p3-high"
+      },
+      "human_author": "James A Rosen <james.rosen@scribehow.com>"
+    }
+  }
+}
