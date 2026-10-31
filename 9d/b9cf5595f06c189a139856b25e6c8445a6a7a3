@@ -1,0 +1,20 @@
+tests/test_plugin.py
+  s_1bfc981d8ca535::t_c2173404377cec 557
+  s_1bfc981d8ca535::t_5ce3fd0f20b37c 593-599,602,611,617-618
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9db9cf5595f06c189a139856b25e6c8445a6a7a3",
+  "prompts": {},
+  "sessions": {
+    "s_1bfc981d8ca535": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "6ead0ed9-2eed-4c49-81b6-7df460c25d4e",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "James A Rosen <james.rosen@scribehow.com>"
+    }
+  }
+}
