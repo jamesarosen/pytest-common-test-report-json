@@ -1,0 +1,24 @@
+README.md
+  s_0a90990fd6520b::t_328357e275c639 118
+  s_0a90990fd6520b::t_97a1dc187dde8e 18-19
+uv.lock
+  s_0a90990fd6520b::t_ad010d3ad57e62 3,7,33,54,79,82-85,101-104,117,157,160-166,182-188,197,200,206,208,210,214,228,231-232,248-249,261-262,275,278-280,296-297,299,311
+pyproject.toml
+  s_0a90990fd6520b::t_16c0d4a8f537b3 13,16,25
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3e5d589805d0072ff846d3489ce35cf420749ba2",
+  "prompts": {},
+  "sessions": {
+    "s_0a90990fd6520b": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "df96f3bb-1e14-4205-9c96-604ee38c7718",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": null
+    }
+  }
+}
