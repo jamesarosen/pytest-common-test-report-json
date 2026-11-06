@@ -1,0 +1,21 @@
+.github/workflows/deploy.yml
+  s_0a90990fd6520b::t_ad7d9337e62b5d 39-48
+pyproject.toml
+  s_0a90990fd6520b::t_56476d99dd27c0 15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "2489f2cd90dc675d0b12fbae12844941ed2fa8ab",
+  "prompts": {},
+  "sessions": {
+    "s_0a90990fd6520b": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "df96f3bb-1e14-4205-9c96-604ee38c7718",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "James A Rosen <james.rosen@scribehow.com>"
+    }
+  }
+}
